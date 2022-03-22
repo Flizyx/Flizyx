@@ -5,3 +5,8 @@
 love tech and lifelong learning, currently learning blockchain development, also worked with frontend, backend, a bit of devops. 
 
 Skills: ANGULAR JS / REACT / JS / HTML / CSS / etc
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Flizyx)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flizyx)](https://github.com/anuraghazra/github-readme-stats)
+
