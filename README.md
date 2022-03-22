@@ -6,7 +6,4 @@ love tech and lifelong learning, currently learning blockchain development, also
 
 Skills: ANGULAR JS / REACT / JS / HTML / CSS / etc
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Flizyx)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flizyx)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='github' height='40'>](https://www.linkedin.com/in/nicolaslizarazo/)  
