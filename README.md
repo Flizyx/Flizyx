@@ -4,6 +4,6 @@
 
 love tech and lifelong learning, currently learning blockchain development, also worked with frontend, backend, a bit of devops. 
 
-Skills: ANGULAR JS / REACT / JS / HTML / CSS / etc
+Skills: JAVASCRIPT / REACT / ANGULAR / HTML / CSS / C++ / C# / JAVA / DJANGO / PYTHON / SQL & NOSQL / SMART CONTRACTS / MATLAB / R / OCTAVE / AWS / LINUX / ETC. 
 
 [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='github' height='40'>](https://www.linkedin.com/in/nicolaslizarazo/)  
