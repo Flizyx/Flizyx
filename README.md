@@ -1,6 +1,6 @@
 ### Hey there! 👋 I'm Nicolas
-#### 🚀 Software Engineer | AI/Tech lover | Lifelong Learner
----
+#### 🚀 Software Engineer | AI | Web3 | Mechatronics
+
 ### 🛠️ About Me
 I'm a **Software Engineer** at **Nubank**, passionate about efficiency, innovation, and problem-solving. With a background in **Mechatronics Engineering** and **6+ years of experience**, I specialize in:
 - **Backend & Architecture**: Clojure, Kotlin, Ruby on Rails, Node.js, Datomic.
@@ -8,6 +8,7 @@ I'm a **Software Engineer** at **Nubank**, passionate about efficiency, innovati
 - **AI & Web3**: Machine Learning, Solidity, Ethereum ecosystem.
 
 I thrive on **automating operational processes**, optimizing workflows, and turning complex problems into scalable, elegant solutions used by millions. 🚀
+
 ---
 ### 🔥 Tech Stack & Skills
 
@@ -25,7 +26,6 @@ I thrive on **automating operational processes**, optimizing workflows, and turn
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
@@ -56,14 +56,15 @@ I thrive on **automating operational processes**, optimizing workflows, and turn
 - **Buk**: Implemented core features and automated testing with **Ruby on Rails** to drive system robustness and expansion into the Brazilian market.
 - **Ethereum Bogotá**: Acted as Community Lead, driving Web3 adoption through technical education, meetups, and strategic initiatives.
 - **Bido Music**: Developed a scalable music streaming application integrating Django, AWS, and Docker.
+- **Algorythm**: Achieved **100x performance improvements** in financial data processing.
+- **Autonomo system**: Developed dashboards/payment-gateways used by millions in Mi-Claro Puerto rico using **AngularJs**, **.Net** and **Typescript**.
+
 ---
 ### 🌍 Languages
-🇪🇸 Spanish (Native) | 🇺🇸 English (Fluent) | 🇩🇪 German (B1) | 🇨🇳 Mandarin (HSK1) | 🇯🇵 Japanese (A1)
+🇪🇸 Spanish (Native) | 🇺🇸 English (Fluent) | 🇩🇪 German (Professional) | 🇨🇳 Mandarin (Elementary) | 🇯🇵 Japanese (Elementary)
 
 ---
 ### 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolaslizarazo/)
 
-
 Always open to collaborations and new challenges! 🚀
-
