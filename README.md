@@ -1,25 +1,21 @@
 ### Hey there! 👋 I'm Nicolas
 #### 🚀 Software Engineer | AI/Tech lover | Lifelong Learner
-
-<p align="center">
-   <img align="center" width="200" src="[https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png](https://avatars.githubusercontent.com/u/39562903?v=4)" />
-</p>
-
 ---
 ### 🛠️ About Me
-I'm a **Software Engineer** passionate about **efficiency, innovation, and problem-solving**. With **6+ years of experience**, I specialize in:
-- **Backend Development**: Ruby on Rails, Python, .NET Core, Nodejs
-- **Frontend**: Angular, React, Next.js, Vue
-- **Cloud & DevOps**: AWS, Azure, GCP, Docker,
-- **AI & Machine Learning**: TensorFlow, VertexAI, Colab
-- **Blockchain & Smart Contracts**: Solidity, Rust, EVM
+[cite_start]I'm a **Software Engineer** at **Nubank**, passionate about efficiency, innovation, and problem-solving. [cite_start]With a background in **Mechatronics Engineering** [cite: 26] and **6+ years of experience**, I specialize in:
+- [cite_start]**Backend & Architecture**: Clojure [cite: 7][cite_start], Kotlin [cite: 8][cite_start], Ruby on Rails, Node.js, Datomic[cite: 6].
+- **Cloud & DevOps**: AWS, Azure, GCP, Docker.
+- [cite_start]**AI & Web3**: Machine Learning [cite: 78][cite_start], Solidity [cite: 18][cite_start], Ethereum ecosystem[cite: 45, 49].
 
-I thrive on **turning complex problems into simple, elegant solutions**. 🚀
+I thrive on **automating operational processes**, optimizing workflows, and turning complex problems into scalable, elegant solutions used by millions. [cite_start]🚀 [cite: 25]
 
 ---
 ### 🔥 Tech Stack & Skills
 
 #### 💻 Languages & Frameworks
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Datomic](https://img.shields.io/badge/Datomic-000000?style=for-the-badge&logo=datomic&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,13 +51,12 @@ I thrive on **turning complex problems into simple, elegant solutions**. 🚀
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
-### 🚀 Latest Projects
-- **[BUK](https://buk.cl/)**: Optimized payroll & HR systems for **5M+ users** across LATAM.
-- **[Algorythm](https://algorythm.com/)**:  Achieved **100x performance improvements** in financial data processing.
-- **[Bido Music](https://bido.com/)**:  Developed a **scalable music streaming platform** for businesses.
-- **[AI](https://github.com/nicolaslizarazo)**: Projects integrating **SOTA models and systems**.
-- **[Blockchain](https://github.com/nicolaslizarazo)**: **Country sized projects with Web3**, hackathons and volunteering.
-
+### 🚀 Impact & Recent Experience
+- [cite_start]**Nubank**: Driving global expansion by developing scalable, high-impact financial products.  [cite_start]Optimizing and reducing operational processes through automation using **Clojure** and **Datomic**. [cite: 6, 7]
+- [cite_start]**Solvedex**: Engineered scalable payment systems, adapting architectures for higher transaction volumes and security using **Kotlin**, **NestJS**, and AWS. [cite: 36, 38]
+- [cite_start]**Buk**: Implemented core features and automated testing with **Ruby on Rails** to drive system robustness and expansion into the Brazilian market. [cite: 43, 44]
+- [cite_start]**Ethereum Bogotá**: Acted as Community Lead, driving Web3 adoption through technical education, meetups, and strategic initiatives. [cite: 46, 49]
+- [cite_start]**Bido Music**: Developed a scalable music streaming application integrating Django, AWS, and Docker. [cite: 58, 59, 60]
 ---
 ### 🌍 Languages
 🇪🇸 Spanish (Native) | 🇺🇸 English (Fluent) | 🇩🇪 German (B1) | 🇨🇳 Mandarin (HSK1) | 🇯🇵 Japanese (A1)
